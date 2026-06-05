@@ -49,7 +49,6 @@ La documentation Swagger est disponible sur `http://localhost:8080/swagger-ui.ht
 HobbyForge/
 ├── backend/        # API Spring Boot
 ├── frontend/       # À venir
-├── database/       # Scripts SQL
 └── docker-compose.yml
 ```
 
